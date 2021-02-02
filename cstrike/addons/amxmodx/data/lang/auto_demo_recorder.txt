@@ -1,0 +1,8 @@
+﻿
+[en]
+ADR_PREFIX = ^3[ADR]^1
+ADR_STARTED = Your demo is started. Your demo's name:^3 %s
+
+[hu]
+ADR_PREFIX = ^3[ADR]^1
+ADR_STARTED = A demó felvételed elindult. A demó fájlod neve:^3 %s
